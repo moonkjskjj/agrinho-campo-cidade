@@ -1,7 +1,7 @@
 # Projeto Agrinho 2025 🌽🚜🏙️
 
 **Tema:** Festejando a Conexão Campo-Cidade  
-**Criado por:** [Luana]
+**Criado por:** Luana
 
 ## 🔗 Acesse o projeto publicado:
 👉 [Clique aqui para acessar o site](https://moonkjskjj.github.io/agrinho-campo-cidade/)
